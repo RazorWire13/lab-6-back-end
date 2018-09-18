@@ -23,6 +23,7 @@ cors
 
 ## Change Log
 See Commit Logs
+9/18 - initial build to 1.2.1
 
 ## Credits and Collaborations
 Code Fellows
