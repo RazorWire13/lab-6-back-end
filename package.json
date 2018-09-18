@@ -1,0 +1,26 @@
+{
+  "name": "lab-6-back-end",
+  "version": "1.0.0",
+  "description": "City Explorer Back End",
+  "main": "server.js",
+  "scripts": {
+    "test": "Maybe?",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RazorWire13/lab-6-back-end.git"
+  },
+  "keywords": [
+    "Back-End"
+  ],
+  "author": "VN, DM",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RazorWire13/lab-6-back-end/issues"
+  },
+  "homepage": "https://github.com/RazorWire13/lab-6-back-end#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
